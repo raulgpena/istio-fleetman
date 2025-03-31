@@ -1,4 +1,4 @@
-**Note: updated for version 1.10.3 on 16 July 2021**
+***January 2023: should now support arm64 (Apple silicon) properly ***
 
 For support, please visit the support service on the platform you're following the course on (Udemy or VPP). I generally check every day.
 
@@ -10,4 +10,3 @@ VirtualPairProgrammers: https://virtualpairprogrammers.com/training-courses/Isti
 
 Aim: make Istio understandable - it's not that hard. I don't mention TCP/IP stack levels once. Or the CNCF.
 
-There will be further material added later [I'm working on this, but in slower time!]
